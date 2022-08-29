@@ -1,0 +1,356 @@
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.exe
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.deps.json
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.json
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.dev.json
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csprojAssemblyReference.cache
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfoInputs.cache
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfo.cs
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CoreCompileInputs.cache
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cs
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cache
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.RazorTargetAssemblyInfo.cache
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CopyComplete
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\staticwebassets\HandsOnAPIWithEF.StaticWebAssets.Manifest.cache
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\staticwebassets\HandsOnAPIWithEF.StaticWebAssets.xml
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\IIHT\Client-2\HandsOnAngularWithRestAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.genruntimeconfig.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.exe
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.deps.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.dev.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csprojAssemblyReference.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfoInputs.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfo.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CoreCompileInputs.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.RazorTargetAssemblyInfo.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CopyComplete
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\staticwebassets\HandsOnAPIWithEF.StaticWebAssets.Manifest.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\staticwebassets\HandsOnAPIWithEF.StaticWebAssets.xml
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.genruntimeconfig.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.StaticWebAssets.xml
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.exe
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.deps.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.dev.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.AssemblyReference.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfoInputs.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfo.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CoreCompileInputs.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\staticwebassets\HandsOnAPIWithEF.StaticWebAssets.Manifest.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.RazorTargetAssemblyInfo.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CopyComplete
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.genruntimeconfig.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.StaticWebAssets.xml
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.exe
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.deps.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.dev.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.AssemblyReference.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfoInputs.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfo.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CoreCompileInputs.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\staticwebassets\HandsOnAPIWithEF.StaticWebAssets.Manifest.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.RazorTargetAssemblyInfo.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CopyComplete
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.genruntimeconfig.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.StaticWebAssets.xml
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.exe
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.deps.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.dev.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.AssemblyReference.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfoInputs.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfo.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CoreCompileInputs.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\staticwebassets\HandsOnAPIWithEF.StaticWebAssets.Manifest.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.RazorTargetAssemblyInfo.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CopyComplete
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.genruntimeconfig.cache
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.StaticWebAssets.xml
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.exe
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.deps.json
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.json
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.runtimeconfig.dev.json
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.AssemblyReference.cache
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfoInputs.cache
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.AssemblyInfo.cs
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CoreCompileInputs.cache
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cs
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.MvcApplicationPartsAssemblyInfo.cache
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\staticwebassets\HandsOnAPIWithEF.StaticWebAssets.Manifest.cache
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.RazorTargetAssemblyInfo.cache
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.csproj.CopyComplete
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.dll
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.pdb
+D:\CG\HandsOnMVCUsingAPI\HandsOnAPIWithEF\HandsOnAPIWithEF\obj\Debug\netcoreapp3.1\HandsOnAPIWithEF.genruntimeconfig.cache

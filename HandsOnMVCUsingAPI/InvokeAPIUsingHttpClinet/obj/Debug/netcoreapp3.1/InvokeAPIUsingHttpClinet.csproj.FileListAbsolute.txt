@@ -1,0 +1,684 @@
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.exe
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.deps.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.dev.json
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csprojAssemblyReference.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfoInputs.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfo.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.input.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.output.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorCoreGenerate.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\staticwebassets\InvokeAPIUsingHttpClinet.StaticWebAssets.Manifest.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\staticwebassets\InvokeAPIUsingHttpClinet.StaticWebAssets.xml
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.genruntimeconfig.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CopyComplete
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CoreCompileInputs.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\Dotnet\Material\DOTNET\DONTET-CORE\ASPNET-CORE\MVC Core HandsOn\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.StaticWebAssets.xml
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.exe
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.deps.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.dev.json
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.AssemblyReference.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfoInputs.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfo.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CoreCompileInputs.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.MvcApplicationPartsAssemblyInfo.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\staticwebassets\InvokeAPIUsingHttpClinet.StaticWebAssets.Manifest.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.input.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.output.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorCoreGenerate.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cache
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cs
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CopyComplete
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\Clients\MindMajix\Batch-22-09\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.genruntimeconfig.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.StaticWebAssets.xml
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.exe
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.deps.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.dev.json
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.AssemblyReference.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.GeneratedMSBuildEditorConfig.editorconfig
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfoInputs.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfo.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CoreCompileInputs.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.MvcApplicationPartsAssemblyInfo.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\staticwebassets\InvokeAPIUsingHttpClinet.StaticWebAssets.Manifest.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.input.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.output.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorCoreGenerate.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cache
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cs
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CopyComplete
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\MindMajix\Batch-06-11\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.genruntimeconfig.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.StaticWebAssets.xml
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.exe
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.deps.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.dev.json
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.AssemblyReference.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfoInputs.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfo.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CoreCompileInputs.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\staticwebassets\InvokeAPIUsingHttpClinet.StaticWebAssets.Manifest.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.input.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.output.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorCoreGenerate.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cache
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cs
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CopyComplete
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+C:\Users\santhosh\OneDrive\MindMajix\Batch-01-06\WEB API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.genruntimeconfig.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.StaticWebAssets.xml
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.exe
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.deps.json
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.json
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.dev.json
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.AssemblyReference.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfoInputs.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfo.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CoreCompileInputs.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.MvcApplicationPartsAssemblyInfo.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\staticwebassets\InvokeAPIUsingHttpClinet.StaticWebAssets.Manifest.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.input.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.output.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorCoreGenerate.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cache
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cs
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CopyComplete
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\Stackroute\Sutherland\sutherland-handson\API\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.genruntimeconfig.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\appsettings.json
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.StaticWebAssets.xml
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.exe
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.deps.json
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.json
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.runtimeconfig.dev.json
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.AssemblyReference.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfoInputs.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.AssemblyInfo.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CoreCompileInputs.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.MvcApplicationPartsAssemblyInfo.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorAssemblyInfo.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\staticwebassets\InvokeAPIUsingHttpClinet.StaticWebAssets.Manifest.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.input.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.TagHelpers.output.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorCoreGenerate.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cache
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.RazorTargetAssemblyInfo.cs
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.Views.pdb
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.csproj.CopyComplete
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.dll
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.pdb
+D:\CG\HandsOnMVCUsingAPI\InvokeAPIUsingHttpClinet\obj\Debug\netcoreapp3.1\InvokeAPIUsingHttpClinet.genruntimeconfig.cache

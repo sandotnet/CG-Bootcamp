@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/dotnetcoretraining611/databases/PracticeDB",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:PracticeDBConnection",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}
